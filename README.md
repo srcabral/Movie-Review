@@ -53,7 +53,7 @@ Pré-requisitos: Java 17
 
 ```
 # entrar na pasta do projeto backend
-cd backend
+cd Movie-Review/backend
 
 # executar o projeto
 ./mvnw spring-boot:run
@@ -63,7 +63,7 @@ Pré-requisitos: npm / yarn
 
 ```
  # entrar na pasta frontend
- cd frontend
+ cd Movie-Review/frontend
  
  # instalar depêndencias
  yarn install

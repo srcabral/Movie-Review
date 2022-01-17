@@ -8,7 +8,7 @@ https://movie-review-srcabral.netlify.app
 
 Movie Review é uma aplicação full stack web desenvolvida durante a **Semana Spring React**, evento este organizado e ministrado pela [DevSuperior](https://devsuperior.com.br/cursos) do dia 10 a 16 de Janeiro de 2022.
 
-A aplicação consiste em apresentar uma lista de catálogos de filmes e permitir que usuários possam avaliar os filmes inserindo seu email e a pontuação para o filme avaliado.
+A aplicação consiste em apresentar uma lista de catálogos de filmes e permitir que usuários possam avaliar os filmes inserindo seu email e a pontuação para o filme avaliado. O resultado das avaliações é apresentado no catálgo do filme em forma de pontuações de estrelas.
 
 ## Layout
 

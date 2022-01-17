@@ -12,9 +12,9 @@ A aplicação consiste em apresentar uma lista de catálogos de filmes e permiti
 
 ## Layout
 
-![HomePage](https://github.com/srcabral/Prints/blob/main/img/Home.png)
+![HomePage](https://github.com/srcabral/Assets/blob/main/img/MovieReview/Home.png)
 
-![Review](https://github.com/srcabral/Prints/blob/main/img/Avalia%C3%A7%C3%A3o.png)
+![Review](https://github.com/srcabral/Assets/blob/main/img/MovieReview/Avalia%C3%A7%C3%A3o.png)
 
 ![ReviewFieldOpen](https://github.com/srcabral/Assets/blob/main/img/MovieReview/Review.png)
 
